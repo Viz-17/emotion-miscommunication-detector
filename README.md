@@ -1,5 +1,3 @@
-# emotion-miscommunication-detector
-
 # 🧠 Emotion Miscommunication Detection System
 
 ## 📌 Overview
